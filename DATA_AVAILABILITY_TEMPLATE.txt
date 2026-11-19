@@ -1,0 +1,5 @@
+Suggested scope statement (edit before manuscript submission):
+
+The analysis source code and environmental gridded subsets are available in the public code repository [REPOSITORY_URL], [RELEASE_TAG]. Environmental products were obtained from the E.U. Copernicus Marine Service (DOIs 10.48670/moi-00052 and 10.48670/moi-00283) and GEBCO_2024 (DOI 10.5285/1c44ce99-0a0d-5f4f-e063-7086abc0ea0f). The bottom-trawl survey records, species-by-event data and event-level matched outputs are not included in the repository. Release notes document current code-validation limits. Do not claim the private fisheries survey dataset is publicly accessible.
+
+Do not fill in [REPOSITORY_URL] and [RELEASE_TAG] until verified.

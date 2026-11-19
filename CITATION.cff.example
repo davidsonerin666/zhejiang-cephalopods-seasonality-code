@@ -1,0 +1,15 @@
+# Template only. Replace every placeholder before renaming to CITATION.cff.
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite this verified software release."
+title: "Zhejiang cephalopod seasonal community analysis code"
+type: software
+authors:
+  - family-names: "REPLACE_WITH_AUTHOR_FAMILY_NAME"
+    given-names: "REPLACE_WITH_AUTHOR_GIVEN_NAME"
+version: "REPLACE_WITH_VERIFIED_RELEASE_VERSION"
+date-released: "REPLACE_WITH_YYYY-MM-DD"
+repository-code: "https://github.com/REPLACE_USER/REPLACE_REPOSITORY"
+# Add the archived version DOI after the release has actually been deposited.
+# A citation file does not grant a software license. Choose a code-only license
+# after confirming authorship and third-party rights. No private data license is
+# granted by this repository. Do not invent author identifiers or a DOI.
