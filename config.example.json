@@ -1,0 +1,7 @@
+{
+  "fishery_csv": "/kaggle/input/private-fishery/fishery_long.csv",
+  "environment_root": "data/environment",
+  "output_root": "/kaggle/working/chapter2_private_outputs",
+  "blas_threads": 2,
+  "environment_overrides": {}
+}
