@@ -1,7 +1,6 @@
 # Zhejiang coastal cephalopods — Chapter 2 statistical analysis code
 
-Research code and four publicly sourced gridded environmental NetCDF subsets for surveys in April and November, 2014–2024. This package is a **pre-release candidate for academic review**. It is **not** a claim that every reported manuscript number has been independently reproduced.
-
+Research code and four publicly sourced gridded environmental NetCDF subsets for surveys in April and November, 2014–2024. This package is a **pre-release candidate for academic review**.
 ## Repository contents
 
 - `scripts/`: 13 Python statistical and modelling scripts (including data cleaning, alpha/beta diversity, environmental matching, GEE, conditional dbRDA). The three standalone publication-figure scripts are omitted.
