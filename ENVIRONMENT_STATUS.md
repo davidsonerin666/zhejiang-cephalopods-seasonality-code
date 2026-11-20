@@ -1,11 +1,4 @@
-# Environment declaration and verification
 
-`requirements.txt` was copied from the recovered workflow. Its pinned versions
-are retained for traceability; they are not a validated lockfile and were not
-installed or tested as a complete environment during this packaging operation.
-The recovered scripts do not import TensorFlow and TensorFlow is not a declared
-dependency. Do not copy an unrelated Python/TensorFlow/GPU configuration into the
-paper as evidence of the environment used for these analyses.
 
 Record the actual versions in the successful private Kaggle run:
 
