@@ -1,6 +1,3 @@
-
 # Repository Audit Tools
 
-This directory contains Python utilities for recording the computational environment and checking the public code package.
-
-The checks do not establish scientific reproducibility or verify the safety of GitHub commit history.
+`check_public_package.py` performs static checks of the permitted file list, NetCDF hashes, Python syntax and notebook outputs. This does not establish scientific numerical reproducibility, data-use authorization, account compliance, or safety of a remote repository's commit history.
