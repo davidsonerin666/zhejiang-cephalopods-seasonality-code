@@ -22,8 +22,6 @@ A local `config.local.json` (excluded by `.gitignore`) can be created from `conf
 python run_pipeline.py --config config.local.json --stages all
 ```
 
-The workflow was not re-executed end-to-end as part of this packaging audit. The recovered original GEE analysis and the newer scripted workflow still need reconciliation in some reported metrics. This release is intended for code inspection and ongoing verification.
-
 ## Publication and rights
 
 The environmental data are attributed to Copernicus Marine Service and GEBCO; see `data/environment/README.md`. Confirm applicable redistribution terms and author/institutional permission to publish the scripts. A software LICENSE is not supplied; rights owners should choose an appropriate license separately.
